@@ -28,13 +28,13 @@ Extract readable text from PDF files instantly — right from your browser or vi
 ### 1️⃣ Install dependencies
 
 ```bash
-pip install flask pdfminer.six
+pip install -r requirements.txt
 ```
 
 ### 2️⃣ Run the server
 
 ```bash
-python app.py
+python main.py
 ```
 
 ### 3️⃣ Open in your browser
