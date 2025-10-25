@@ -25,7 +25,7 @@ Extract readable text from PDF files instantly — right from your browser or vi
 > Example:
 >
 > ```
-> ![Screenshot](docs/screenshot.png)
+> ![Screenshot](assets/shot.png)
 > ```
 
 ---
