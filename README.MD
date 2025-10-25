@@ -19,13 +19,7 @@ Extract readable text from PDF files instantly — right from your browser or vi
 ---
 
 ## 🖥️ Web Interface Preview
-
->
-> Example:
->
-> ```
-> ![](https://github.com/jleonardolemos/pdf-converter/blob/main/assets/shot.png?raw=true)
-> ```
+![](https://github.com/jleonardolemos/pdf-converter/blob/main/assets/shot.png?raw=true)
 
 ---
 
