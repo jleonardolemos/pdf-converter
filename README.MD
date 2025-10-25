@@ -20,12 +20,11 @@ Extract readable text from PDF files instantly — right from your browser or vi
 
 ## 🖥️ Web Interface Preview
 
-> 📸 *Add a screenshot here after running the app locally*
 >
 > Example:
 >
 > ```
-> ![Screenshot](assets/shot.png)
+> ![](https://github.com/jleonardolemos/pdf-converter/blob/main/assets/shot.png?raw=true)
 > ```
 
 ---
